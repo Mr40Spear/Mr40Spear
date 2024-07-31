@@ -33,6 +33,11 @@ Sevgiler, Selamlar 👋
  ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr40spear&layout=compact)
 
 ---
-## 🎉 Thanks
+Teşekürler
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+
+
+
+<br />
