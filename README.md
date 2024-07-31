@@ -20,7 +20,9 @@ Sevgiler, Selamlar 👋
 
 ## 🌐 Sosyal Medya
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-cemal-kana%C3%A7-4703142a4/)
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/cemal.knc/)
+
 [![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/Cemal_KNC)
 
 
