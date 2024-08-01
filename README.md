@@ -1,5 +1,5 @@
 
-### Cemal Kanaç Hakkında
+### Cemal Kanaç 👨🏻‍💻 Hakkında
 
 [![translate](https://img.shields.io/badge/For_English_CLICK_Here-English_Click_here?style=flat-square&logo=googletranslate&labelColor=white&color=blue)](https://github-com.translate.goog/mr40spear?_x_tr_sl=tr&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
@@ -18,9 +18,9 @@ Sevgiler, Selamlar 👋
 ---
 
 ### 🌐 Sosyal Medya
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-cemal-kana%C3%A7-4703142a4/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/cemal.knc/)
-[![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/Cemal_KNC)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-cemal-kana%C3%A7-4703142a4/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cemal.knc/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Cemal_KNC)
 <br><br>
 
 ### 🌟 Yeteneklerim
@@ -28,10 +28,15 @@ Sevgiler, Selamlar 👋
 
 
 
-### 📊 GitHub İstatistikleri
- ![Cemal Kanaç'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=mr40spear&show_icons=true&theme=radical) 
- 
- ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr40spear&layout=compact)
+### ⚙️ GitHub Analizi
+
+<p align="center">
+<a href="https://github.com/mr40spear">
+ <img height="220em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mr40spear&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+ <img height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=mr40spear&theme=algolia" alt="mystreak"/>
+ <img height="144em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mr40spear&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ---
 Teşekürler
