@@ -4,17 +4,16 @@
 [![translate](https://img.shields.io/badge/For_English_CLICK_Here-English_Click_here?style=flat-square&logo=googletranslate&labelColor=white&color=blue)](https://github-com.translate.goog/mr40spear?_x_tr_sl=tr&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
 
-<sub>
-
 <hr>
-Merhaba, ben Cemal Kanaç! 2008 doğumlu küçük yaşlarından beri bilgisayarlarla iç içe olan ve 2019-2020 yılından beri yazılıma atılan ve o zamandan veri kendini geliştiren biriyim. Şuanda Jr. Penetration Test ve Jr. Yazılım Geliştirici olarak çalışıyor ve kendimi geliştiriyorum. Disiplinli, sorumluluk sahibi, kararlı, güvenilir ve aynı zamanda işkoliğimdir. Şuanda Python gelişitiriciliğiyle uğraşıyorum. 
+<p style="font-size: 18px;">
+Merhaba, ben Cemal Kanaç! 2008 doğumlu, küçük yaşlarından beri bilgisayarlarla iç içe olan ve 2019-2020 yılından beri yazılıma atılan ve o zamandan beri kendini geliştiren biriyim. Şu anda Jr. Penetration Test ve Jr. Yazılım Geliştirici olarak çalışıyor ve kendimi geliştiriyorum. Disiplinli, sorumluluk sahibi, kararlı, güvenilir ve aynı zamanda işkoliğimdir. Şu anda Python geliştiriciliğiyle uğraşıyorum.
 <br><br>
-Yeni olarakta C++ programlama dilini öğreniyorum. Siber güvenlik ve Yazılım çok geniş bir alan, her gün yeni bir şeyler öğrenmekten çok keyif alıyorum.
+Yeni olarak da C++ programlama dilini öğreniyorum. Siber güvenlik ve Yazılım çok geniş bir alan, her gün yeni bir şeyler öğrenmekten çok keyif alıyorum.
 <br><br>
 Umarım profilim hoşunuza gider, teşekkürler!
 <br>
 Sevgiler, Selamlar 👋
-</sub>
+</p>
 
 ### 🌐 Sosyal Medya
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-cemal-kana%C3%A7-4703142a4/)
