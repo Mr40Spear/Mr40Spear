@@ -15,7 +15,7 @@ Umarım profilim hoşunuza gider, teşekkürler!
 Sevgiler, Selamlar 👋
 </p>
 
---
+---
 
 ### 🌐 Sosyal Medya
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-cemal-kana%C3%A7-4703142a4/)
