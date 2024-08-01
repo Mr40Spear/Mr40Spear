@@ -16,18 +16,18 @@ Umarım profilim hoşunuza gider, teşekkürler!
 Sevgiler, Selamlar 👋
 </sub>
 
-## 🌐 Sosyal Medya
+### 🌐 Sosyal Medya
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-cemal-kana%C3%A7-4703142a4/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/cemal.knc/)
 [![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/Cemal_KNC)
 <br><br>
 
-## 🌟 Yeteneklerim
+### 🌟 Yeteneklerim
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"> <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 
 
 
-## 📊 GitHub İstatistikleri
+### 📊 GitHub İstatistikleri
  ![Cemal Kanaç'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=mr40spear&show_icons=true&theme=radical) 
  
  ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr40spear&layout=compact)
