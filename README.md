@@ -19,70 +19,89 @@ Sevgiler, Selamlar 👋
 
 
 
-## 🛠️ My Skills
+## 🛠️ Yeteneklerim
 
-### Programming languages
+### Programlama Dilleri
 
 <p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-  <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-  <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
+  <a href="#"><img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
   &emsp;
-   <a href="https://www.python.org" target="_blank">
-   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
+  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+  </p>
+
+### Web ve Frontend Geliştirme
+
+<p align="left"> 
+  &emsp;
+  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 </p>
 
-### Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
+### Veritabanları ve Bulut Hizmetleri
+
+<p align="left">
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"></a> 
+</p>
+
+### Grafik Tasarım ve Diğer Araçlar
+
+<p align="left">
+  &emsp;
+  <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></a>
+</p>
+
+### Yazılım ve Araçlar
+
+<p align="left">
+  &emsp;
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%230078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-%23FB542B.svg?style=for-the-badge&logo=brave&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
    &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
+  <a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali-%23268BEE.svg?style=for-the-badge&logo=kalilinux&logoColor=white"></a>
+                                                                                                                                            
 </p>
 
-### Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-  &emsp;
-  <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
-  &emsp;
-  <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
- </p>
-  
-### Graphic Designing
-<p align="left">
-  &emsp;
-  <a href="#">
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
+### Diğer Araçlar
 
- ### Software & Tools
- 
-<p>
+<p align="left">
   &emsp;
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-  &emsp;
-  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
+  <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white"></a>
 </p>
+>
 
 <br/>
 
