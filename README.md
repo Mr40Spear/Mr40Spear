@@ -101,7 +101,7 @@ Sevgiler, Selamlar 👋
   &emsp;
   <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white"></a>
 </p>
->
+
 
 <br/>
 
