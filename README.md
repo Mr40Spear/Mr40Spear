@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Engineer%20%7C%20Cyber%20Security%20%7C%20AI%20Developer-darkblue?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Founder-KNC%20Tekno-orange?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Founder-KNC%20Tekno-darkred?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
