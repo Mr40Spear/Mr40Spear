@@ -15,7 +15,7 @@
 
 ### 👨🏻‍💻 Hakkımda
 
-2008 doğumlu, teknolojiyle iç içe büyümüş bir tutkunum. Yazılım dünyasına 2019 yılında adım attım ve o günden beri kendimi sürekli geliştiriyorum. Şu an odak noktam **Siber Güvenlik (Penetration Testing)** ve **Yazılım Geliştirme**.
+2008 doğumlu, teknolojiyle iç içe büyümüş bir tutkunum. Yazılım dünyasına 2020 yılında adım attım ve o günden beri kendimi sürekli geliştiriyorum. Şu an odak noktam **Siber Güvenlik (Penetration Testing)** ve **Yazılım Geliştirme (Software Development)**.
 
 - 🛡️ **Jr. Penetration Tester** olarak siber güvenlik süreçlerini öğreniyor ve uyguluyorum.
 - 🐍 **Python** üzerinde uzmanlaşırken, düşük seviyeli programlama mantığını kavramak için **C++** öğreniyorum.
