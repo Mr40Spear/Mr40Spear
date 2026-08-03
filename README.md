@@ -116,20 +116,24 @@ Sevgiler, Selamlar 👋
 
 
 
-## ⚙️ GitHub Analizi
+<h2 align="center">⚙️ GitHub Analizi</h2>
 
-<p align="center">
-<a href="https://github.com/mr40spear">
- <img height="220em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mr40spear&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
- <img height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=mr40spear&theme=algolia" alt="mystreak"/>
- <img height="144em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mr40spear&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mr40spear&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mr40spear&layout=compact&langs_count=8&theme=algolia" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mr40spear&theme=algolia" alt="mystreak"/>
+      </td>
+    </tr>
+  </table>
+</div>
  ### 👋 Görüşürüz
 <br>
-<a>
-  <img src="https://visitcount.itsvg.in/api?id=mr40spear&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenmesi&color=1&icon=0&pretty=true" />  
- 
-</a>
