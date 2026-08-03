@@ -1,7 +1,8 @@
 <h1 align="center">Selamlar, Ben Cemal Kanaç! 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Developer-Cyber%20Security%20%26%20AI-blue?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Development%20%7C%20Cyber%20Security%20%7C%20AI-blue?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Developer-Engineering%20%26%20Innovation-green?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
