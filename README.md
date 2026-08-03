@@ -128,8 +128,10 @@ Amacım; yazılım, yapay zeka ve güvenlik teknolojilerini birleştirerek gelec
 
 <img src="https://img.shields.io/badge/Responsive_Design-4285F4?style=flat-square" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+
 <br>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
