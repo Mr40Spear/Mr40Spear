@@ -243,6 +243,6 @@ Amacım; yazılım, yapay zeka ve güvenlik teknolojilerini birleştirerek gelec
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mr40spear&layout=compact&langs_count=8&theme=algolia" />
 </p>
 <p align="center">
-  <img width="660rem" src="https://github-readme-streak-stats.herokuapp.com/?user=mr40spear&theme=algolia" alt="mystreak"/>
+  <img width="675rem" src="https://github-readme-streak-stats.herokuapp.com/?user=mr40spear&theme=algolia" alt="mystreak"/>
 </p>
 
